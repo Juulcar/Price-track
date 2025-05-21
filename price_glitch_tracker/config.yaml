@@ -1,0 +1,2 @@
+interval_minutes: 5
+discord_webhook: "https://discord.com/api/webhooks/your_webhook_here"
